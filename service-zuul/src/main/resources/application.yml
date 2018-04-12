@@ -7,7 +7,7 @@ server:
 spring:
   application:
     name: service-zuul
-zuul:
+     zuul:
   routes:
     api-a:
       path: /api-a/**
